@@ -1,0 +1,56 @@
+INFO	2024-01-26 13:28:28,281	0	org.example.Main	[main]	Adding User History
+INFO	2024-01-26 13:31:32,213	0	org.example.Main	[main]	Throwing Fish Exception due to reheating fish being against office policy
+INFO	2024-01-26 13:31:32,214	1	org.example.Main	[main]	Adding User History
+INFO	2024-01-26 13:31:37,012	4799	org.example.Main	[main]	Adding User History
+INFO	2024-01-26 13:31:47,293	15080	org.example.Main	[main]	Adding User History
+INFO	2024-01-26 13:31:50,477	18264	org.example.Main	[main]	Retrieving User History
+INFO	2024-01-26 13:36:32,741	0	org.example.Main	[main]	Adding User History
+WARN	2024-01-26 13:36:40,030	7289	org.example.Main	[main]	Throwing Fish Exception due to reheating fish being against office policy
+INFO	2024-01-26 13:36:40,030	7289	org.example.Main	[main]	Adding User History
+INFO	2024-01-26 13:36:56,958	24217	org.example.Main	[main]	Adding User History
+INFO	2024-01-26 13:37:01,327	28586	org.example.Main	[main]	Retrieving User History
+WARN	2024-01-26 13:37:23,537	50796	org.example.Main	[main]	Throwing CLI Exception, due to not inputting a Valid Choice into CLI
+WARN	2024-01-26 13:37:34,003	61262	org.example.Main	[main]	Throwing Food Selection Exception: invalid food selection made
+WARN	2024-01-26 14:22:44,899	0	org.example.Main	[main]	Throwing Fish Exception due to reheating fish being against office policy
+INFO	2024-01-26 14:22:44,900	1	org.example.Main	[main]	Adding User History
+INFO	2024-01-26 14:22:48,287	3388	org.example.Main	[main]	Adding User History
+INFO	2024-01-26 14:23:00,530	15631	org.example.Main	[main]	Adding User History
+INFO	2024-01-26 14:23:08,874	23975	org.example.Main	[main]	Adding User History
+INFO	2024-01-26 14:23:17,274	32375	org.example.Main	[main]	Adding User History
+INFO	2024-01-26 14:23:26,028	41129	org.example.Main	[main]	Retrieving User History
+WARN	2024-01-26 14:26:49,395	0	org.example.Main	[main]	Throwing Fish Exception due to reheating fish being against office policy
+INFO	2024-01-26 14:26:49,396	1	org.example.Main	[main]	Adding User History
+INFO	2024-01-26 14:26:52,305	2910	org.example.Main	[main]	Adding User History
+INFO	2024-01-26 14:26:57,443	8048	org.example.Main	[main]	Adding User History
+INFO	2024-01-26 14:27:08,955	19560	org.example.Main	[main]	Adding User History
+INFO	2024-01-26 14:27:17,636	28241	org.example.Main	[main]	Adding User History
+INFO	2024-01-26 14:27:24,941	35546	org.example.Main	[main]	Adding User History
+INFO	2024-01-26 14:27:29,838	40443	org.example.Main	[main]	Retrieving User History
+INFO	2024-01-26 14:27:40,503	51108	org.example.Main	[main]	Retrieving User History
+WARN	2024-01-26 14:34:32,886	0	org.example.Main	[main]	Throwing Fish Exception due to reheating fish being against office policy
+INFO	2024-01-26 14:34:32,886	0	org.example.Main	[main]	Adding User History
+INFO	2024-01-26 14:34:36,141	3255	org.example.Main	[main]	Adding User History
+INFO	2024-01-26 14:34:44,542	11656	org.example.Main	[main]	Adding User History
+INFO	2024-01-26 14:34:51,365	18479	org.example.Main	[main]	Adding User History
+INFO	2024-01-26 14:34:56,117	23231	org.example.Main	[main]	Retrieving User History
+INFO	2024-01-26 14:35:02,335	29449	org.example.Main	[main]	Retrieving User History
+WARN	2024-01-26 14:38:14,054	0	org.example.Main	[main]	Throwing Fish Exception due to reheating fish being against office policy
+INFO	2024-01-26 14:38:14,055	1	org.example.Main	[main]	Adding User History
+INFO	2024-01-26 14:38:16,980	2926	org.example.Main	[main]	Adding User History
+INFO	2024-01-26 14:38:21,132	7078	org.example.Main	[main]	Retrieving User History
+INFO	2024-01-26 14:38:29,181	15127	org.example.Main	[main]	Retrieving User History
+WARN	2024-01-26 14:55:28,820	0	org.example.Main	[main]	Throwing Fish Exception due to reheating fish being against office policy
+INFO	2024-01-26 14:55:28,820	0	org.example.Main	[main]	Adding User History
+INFO	2024-01-26 14:55:33,963	5143	org.example.Main	[main]	Adding User History
+INFO	2024-01-26 14:55:39,195	10375	org.example.Main	[main]	Retrieving User History
+WARN	2024-01-26 14:56:44,783	0	org.example.Main	[main]	Throwing Fish Exception due to reheating fish being against office policy
+INFO	2024-01-26 14:56:44,783	0	org.example.Main	[main]	Adding User History
+INFO	2024-01-26 14:56:48,323	3540	org.example.Main	[main]	Adding User History
+INFO	2024-01-26 14:56:58,556	13773	org.example.Main	[main]	Adding User History
+INFO	2024-01-26 14:57:06,134	21351	org.example.Main	[main]	Retrieving User History
+WARN	2024-01-26 15:31:53,674	0	org.example.Main	[main]	Throwing Fish Exception due to reheating fish being against office policy
+INFO	2024-01-26 15:31:53,675	1	org.example.Main	[main]	Adding User History
+INFO	2024-01-26 15:31:57,207	3533	org.example.Main	[main]	Adding User History
+INFO	2024-01-26 15:32:02,263	8589	org.example.Main	[main]	Adding User History
+INFO	2024-01-26 15:32:07,783	14109	org.example.Main	[main]	Adding User History
+INFO	2024-01-26 15:32:12,048	18374	org.example.Main	[main]	Retrieving User History
